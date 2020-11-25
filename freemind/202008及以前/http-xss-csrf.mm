@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1589378596607" ID="ID_172517807" MODIFIED="1589379208832" TEXT="xss/csrf">
+<node CREATED="1589378596607" ID="ID_172517807" MODIFIED="1594973266920" TEXT="cors/xss/csrf">
 <node CREATED="1589378606264" ID="ID_1495327495" MODIFIED="1589378607409" POSITION="right" TEXT="xss">
 <node CREATED="1589378613838" ID="ID_1564060781" MODIFIED="1589378620946" TEXT="cross site script"/>
 <node CREATED="1589378654564" ID="ID_488096888" MODIFIED="1589378656700" TEXT="&#x6d41;&#x7a0b;">

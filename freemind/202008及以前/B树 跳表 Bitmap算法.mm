@@ -1,0 +1,9 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1597801791610" ID="ID_321364989" MODIFIED="1597802299087" TEXT="1">
+<node CREATED="1597801801412" ID="ID_473885639" MODIFIED="1597801825541" POSITION="right" TEXT="B&#x6811; (=B-&#x6811; &#x4e0d;&#x662f;&#x51cf;&#x53f7;)"/>
+<node CREATED="1597801826165" ID="ID_821487082" MODIFIED="1597801829964" POSITION="right" TEXT="B+&#x6811;"/>
+<node CREATED="1597801830226" ID="ID_955861876" MODIFIED="1597801838303" POSITION="right" TEXT="&#x8df3;&#x8868;"/>
+<node CREATED="1597801879504" ID="ID_1317301364" MODIFIED="1597801882012" POSITION="left" TEXT="&#x4e8c;&#x53c9;&#x6811;"/>
+</node>
+</map>

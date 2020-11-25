@@ -1,0 +1,27 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1602313918416" ID="ID_1830992519" MODIFIED="1602727653013" TEXT="lua-cpp-go 10.10">
+<node CREATED="1602313925228" ID="ID_1936459169" MODIFIED="1602313931310" POSITION="right" TEXT="lua call cpp">
+<node CREATED="1602313931652" ID="ID_1371814029" MODIFIED="1602313937309" TEXT="make so from cpp">
+<node CREATED="1602314055164" FOLDED="true" ID="ID_649751024" MODIFIED="1602314118803" TEXT="&#x4f9d;&#x8d56;&#x4e8e;lua &#x81ea;&#x8eab;&#x7684;c&#x4ee3;&#x7801;&#xff0c;include &amp; lib">
+<node CREATED="1602314072368" ID="ID_556223258" MODIFIED="1602314095892" TEXT="/usr/local/include/lua5.3/lua.h"/>
+</node>
+<node CREATED="1602314026392" ID="ID_841917200" MODIFIED="1602314103339" TEXT="extern &quot;C&quot; luaopen_xxx">
+<node CREATED="1602314035135" ID="ID_431767406" MODIFIED="1602314043540" TEXT="&#x7528;&#x4e8e;lua openlib&#x7528;"/>
+</node>
+<node CREATED="1602314167168" ID="ID_161255767" MODIFIED="1602314192836" TEXT="call luaL_newlib(lua_reg &#x8868;) in luaopen_xxx"/>
+<node CREATED="1602314121914" ID="ID_1292117333" MODIFIED="1602314143125" TEXT="luaL_Reg &#x8868;">
+<node CREATED="1602314149680" ID="ID_1554418253" MODIFIED="1602314160122" TEXT="luaL_newlib(xxx)"/>
+</node>
+<node CREATED="1602314253991" ID="ID_1689856585" MODIFIED="1602314258255" TEXT="&#x9762;&#x5411;&#x5bf9;&#x8c61;&#xff1f;"/>
+</node>
+<node CREATED="1602313941911" ID="ID_1858165940" MODIFIED="1602313951784" TEXT="call c func in lua">
+<node CREATED="1602314307644" ID="ID_186477773" MODIFIED="1602314320400" TEXT="require (&quot;mylualibxxx&quot;)"/>
+<node CREATED="1602314321473" ID="ID_1170917131" MODIFIED="1602314337694" TEXT="do what you want"/>
+</node>
+<node CREATED="1602314354492" ID="ID_584369369" MODIFIED="1602314356234" TEXT="golang">
+<node CREATED="1602314356532" ID="ID_1622513790" MODIFIED="1602314370170" TEXT="add lua path &amp; lua cpath for .so"/>
+</node>
+</node>
+</node>
+</map>
