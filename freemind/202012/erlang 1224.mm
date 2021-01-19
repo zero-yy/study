@@ -1,0 +1,80 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1608796061038" ID="ID_674961671" MODIFIED="1608796073644" TEXT="erlang 1224">
+<node CREATED="1608796132924" ID="ID_274375596" MODIFIED="1608796151256" POSITION="right" TEXT="&#x7f16;&#x7a0b;&#x601d;&#x7ef4;&#x6a21;&#x5f0f;">
+<node CREATED="1608796152768" ID="ID_229193692" MODIFIED="1608796154406" TEXT="&#x51fd;&#x6570;&#x5f0f;">
+<node CREATED="1608796360072" ID="ID_691698509" MODIFIED="1608796375990" TEXT="&#x5173;&#x5fc3;&#x6570;&#x636e;&#x7684;&#x6620;&#x5c04;">
+<node CREATED="1608796365233" ID="ID_1090075729" MODIFIED="1608796368535" TEXT="&#x66f4;&#x52a0;&#x6570;&#x5b66;&#x5316;"/>
+</node>
+<node CREATED="1608797015526" ID="ID_1254961144" MODIFIED="1608797021002" TEXT="&#x6570;&#x5b66;&#x62bd;&#x8c61;"/>
+<node CREATED="1608797159944" ID="ID_388665603" MODIFIED="1608797189937" TEXT="&#x548c;&#x6570;&#x5b66;&#x5f88;&#x63a5;&#x8fd1;&#xff0c;&#x4eff;&#x51fd;&#x6570;~ &#x53d8;&#x91cf;&#x90fd;&#x662f;&#x4e0d;&#x53ef;&#x53d8;&#x7684;"/>
+<node CREATED="1608797304056" ID="ID_927603708" MODIFIED="1608797312020" TEXT="&#x4f18;&#x70b9;">
+<node CREATED="1608797312020" ID="ID_203174081" MODIFIED="1608797341574" TEXT="&#x4e0d;&#x53d8;&#x503c;&#xff0c;&#x4e25;&#x91cd;&#x4f9d;&#x8d56;&#x9012;&#x5f52;&#xff0c;&#x65e0;&#x6cd5;&#x771f;&#x7684;&#x5faa;&#x73af;&#x6216;&#x9012;&#x63a8;"/>
+<node CREATED="1608797342516" ID="ID_1672084749" MODIFIED="1608797358255" TEXT="&#x9002;&#x5408;&#x591a;&#x6838;&#x8fd0;&#x7b97;"/>
+<node CREATED="1608797612525" ID="ID_207801947" MODIFIED="1608797745751" TEXT="&#x5f3a;&#x5927;&#x7684;&#x96c6;&#x5408;&#x7c7b;&#xff0c;&#x9ad8;&#x9636;&#x51fd;&#x6570;&#xff0c;map&#x6620;&#x5c04;"/>
+</node>
+<node CREATED="1608798134220" ID="ID_524898203" MODIFIED="1608798134898" TEXT="[&#x4e00;&#x5207;] -&gt;&#x89c4;&#x5219;-&gt; [&#x65b0;&#x7684;&#x4e00;&#x5207;]"/>
+<node CREATED="1608798388341" ID="ID_867692476" MODIFIED="1608798396655" TEXT="&#x51fd;&#x6570;&#x662f;&#x4e00;&#x7b49;&#x516c;&#x6c11;"/>
+<node CREATED="1608798398000" ID="ID_1974696352" MODIFIED="1608798400375" TEXT="&#x652f;&#x6301;&#x95ed;&#x5305;"/>
+<node CREATED="1608798451344" ID="ID_1281600579" MODIFIED="1608798455394" TEXT="Monad">
+<node CREATED="1608798455394" ID="ID_1325306754" MODIFIED="1608798535318" TEXT="&#x96c6;&#x5408;"/>
+<node CREATED="1608798523374" ID="ID_783387109" MODIFIED="1608798528928" TEXT="&#x51fd;&#x6570;&#x7684;&#x7ec4;&#x5408;&#x5173;&#x7cfb;"/>
+</node>
+<node CREATED="1608798562614" ID="ID_1140070156" MODIFIED="1608798570567" TEXT="lambda&#x6f14;&#x7b97;"/>
+<node CREATED="1608801100505" ID="ID_616249339" MODIFIED="1608801152433" TEXT="&#x503c;&#x7684;&#x4e0d;&#x53d8;&#x6027;&#xff0c;&#x51b3;&#x5b9a;&#x4e86;&#x96c6;&#x6210;&#x6216;&#x5e76;&#x53d1;&#x4e0d;&#x4f1a;&#x5e26;&#x6765;&#x4ec0;&#x4e48;&#x98ce;&#x9669;"/>
+<node CREATED="1608801173731" ID="ID_291563289" MODIFIED="1608801181024" TEXT="&#x4ee3;&#x7801;&#x7684;&#x786e;&#x5b9a;&#x6027;&#xff0c;&#x51b3;&#x5b9a;&#x4e86;&#x597d;&#x8c03;&#x8bd5;"/>
+<node CREATED="1608801723058" ID="ID_173446917" MODIFIED="1608801753618" TEXT="&#x60f0;&#x6027;&#x6c42;&#x804c;&#xff0c;&#xff0c;&#x5bfc;&#x81f4;&#x4e86;&#x7f3a;&#x5c11;&#x65f6;&#x5e8f;&#x6027;&#xff0c;&#x4f46;&#x53ef;&#x4ee5;&#x5355;&#x53e5;&#x8868;&#x8fbe;&#xff0c;&#x6574;&#x4f53;&#x60f0;&#x6027;&#xff0c;&#x4ece;&#x800c;&#x53c8;&#x6709;&#x4e86;&#x65f6;&#x5e8f;&#x6027;"/>
+<node CREATED="1608802240953" ID="ID_663351338" MODIFIED="1608802250226" TEXT="&#x544a;&#x8bc9;&#x8ba1;&#x7b97;&#x673a;&#x505a;&#x4ec0;&#x4e48;&#xff1f;&#xff1f;&#xff1f;"/>
+<node CREATED="1608802516347" ID="ID_734388028" MODIFIED="1608802569917" TEXT="lisp, haskell, scala, erlang ... (&#x4f46;&#x5176;&#x5b9e;&#x66f4;&#x591a;&#x7684;&#x662f;&#x4e00;&#x79cd;&#x601d;&#x60f3;)"/>
+</node>
+<node CREATED="1608796896706" ID="ID_1909066546" MODIFIED="1608796906338" TEXT="&#x547d;&#x4ee4;&#x5f0f;&#x7f16;&#x7a0b;">
+<node CREATED="1608796155121" ID="ID_1581102218" MODIFIED="1608796160512" TEXT="&#x9762;&#x5411;&#x95ee;&#x9898;&#x6c42;&#x89e3;"/>
+<node CREATED="1608797003104" ID="ID_1896205634" MODIFIED="1608797010757" TEXT="&#x51af;&#x8bfa;&#x4f9d;&#x66fc;&#x6307;&#x4ee4;&#x5e8f;&#x5217;"/>
+<node CREATED="1608796914978" ID="ID_239551082" MODIFIED="1608796918206" TEXT="&#x5b50;&#x7c7b;">
+<node CREATED="1608796906559" ID="ID_462320762" MODIFIED="1608796909385" TEXT="&#x8fc7;&#x7a0b;&#x5f0f;"/>
+<node CREATED="1608796909953" ID="ID_991549076" MODIFIED="1608796911844" TEXT="&#x9762;&#x5411;&#x5bf9;&#x8c61;"/>
+</node>
+<node CREATED="1608802251876" ID="ID_1060511124" MODIFIED="1608802256034" TEXT="&#x544a;&#x8bc9;&#x8ba1;&#x7b97;&#x673a;&#x600e;&#x4e48;&#x505a;&#xff01;"/>
+</node>
+</node>
+<node CREATED="1608802383295" ID="ID_1791503047" MODIFIED="1608802390602" POSITION="left" TEXT="&#x5c3e;&#x9012;&#x5f52;">
+<node CREATED="1608802392022" ID="ID_1167183955" MODIFIED="1608802404972" TEXT="&#x5728;&#x51fd;&#x6570;&#x6700;&#x540e;&#x9012;&#x5f52;&#x8c03;&#x7528;"/>
+</node>
+<node CREATED="1608803956359" ID="ID_1696245144" MODIFIED="1608803959871" POSITION="left" TEXT="python">
+<node CREATED="1608803960396" ID="ID_414167380" MODIFIED="1608803964943" TEXT="lambda">
+<node CREATED="1608803965314" ID="ID_314777327" MODIFIED="1608804121741" TEXT="&#x533f;&#x540d;&#x51fd;&#x6570;"/>
+<node CREATED="1608804108807" ID="ID_1547528922" MODIFIED="1608804113791" TEXT="+&#x95ed;&#x5305;">
+<node CREATED="1608806605331" ID="ID_1040261665" MODIFIED="1608806642801" TEXT="&#x56e0;&#x4e3a;&#x5ef6;&#x8fdf;&#x6c42;&#x804c;&#x539f;&#x56e0;&#xff0c;&#x4f1a;&#x5b58;&#x5728;&#x5178;&#x578b;&#x7684;&#x95ed;&#x5305;&#x5faa;&#x73af;&#x53d8;&#x91cf;&#x95ee;&#x9898;"/>
+<node CREATED="1608806684400" ID="ID_1166598525" MODIFIED="1608806709318" TEXT="&#x4f20;&#x53c2;&#x89e3;&#x51b3; for n..: lambda n:n: todo by n"/>
+</node>
+<node CREATED="1608804122848" ID="ID_1565218777" MODIFIED="1608804123346" TEXT="&#x548c;&#x51fd;&#x6570;&#x5f0f;&#x7f16;&#x7a0b;&#x91cc;&#x7684;lambda&#x533a;&#x522b;&#x5f88;&#x5927;&#xff0c;&#x4f46;&#x6709;&#x4e00;&#x70b9;&#x70b9;&#x5c0f;&#x76f8;&#x4f3c;&#x6027;"/>
+<node CREATED="1608807226014" ID="ID_1426010394" MODIFIED="1608807227861" TEXT="example">
+<node CREATED="1608807243143" ID="ID_1693757178" MODIFIED="1608807243823" TEXT="&gt;&gt;&gt; list(map(lambda x: x.upper(), [&apos;cat&apos;, &apos;dog&apos;, &apos;cow&apos;])) [&apos;CAT&apos;, &apos;DOG&apos;, &apos;COW&apos;] &gt;&gt;&gt; list(filter(lambda x: &apos;o&apos; in x, [&apos;cat&apos;, &apos;dog&apos;, &apos;cow&apos;])) [&apos;dog&apos;, &apos;cow&apos;] &gt;&gt;&gt; from functools import reduce &gt;&gt;&gt; reduce(lambda acc, x: f&apos;{acc} | {x}&apos;, [&apos;cat&apos;, &apos;dog&apos;, &apos;cow&apos;]) &apos;cat | dog | cow&apos;"/>
+<node CREATED="1608807346450" ID="ID_964177549" MODIFIED="1608807347115" TEXT="sorted(l,key=lambda x:-x)"/>
+</node>
+<node CREATED="1608807578177" ID="ID_1104450478" MODIFIED="1608807582498" TEXT="&#x66ff;&#x4ee3;&#x65b9;&#x6848;">
+<node CREATED="1608807582723" ID="ID_1136804048" MODIFIED="1608807605601" TEXT="[capitalize() for x in [&apos;cat&apos;, &apos;dog&apos;, &apos;cow&apos;]] "/>
+<node CREATED="1608807643202" ID="ID_1453540452" MODIFIED="1608807643686" TEXT="[x+2 for x in range(3) if x &gt; 1]"/>
+</node>
+</node>
+<node CREATED="1608803981903" ID="ID_816754896" MODIFIED="1608804000223" TEXT="(map reduce filter) + lambda">
+<node CREATED="1608804955023" ID="ID_378127142" MODIFIED="1608804957526" TEXT="map">
+<node CREATED="1608804957527" ID="ID_99719819" MODIFIED="1608804959224" TEXT="1:1"/>
+</node>
+<node CREATED="1608804960241" ID="ID_1504032011" MODIFIED="1608804961395" TEXT="reduce">
+<node CREATED="1608804961754" ID="ID_1061461551" MODIFIED="1608804971708" TEXT="a,b&#xff0c;&#xff0c;&#x53ea;&#x662f;&#x66ff;&#x6362;&#x540e;&#x9762;&#x7684;&#x6f14;&#x7ece;"/>
+</node>
+<node CREATED="1608804972560" ID="ID_95943721" MODIFIED="1608804974074" TEXT="filter">
+<node CREATED="1608804974074" ID="ID_1289438851" MODIFIED="1608804976460" TEXT="&#x5e94;&#x8be5;&#x662f;&#x8fc7;&#x6ee4;"/>
+</node>
+</node>
+<node CREATED="1608807753097" ID="ID_383416234" MODIFIED="1608807754029" TEXT="https://realpython.com/python-lambda/"/>
+</node>
+<node CREATED="1608807905111" ID="ID_957327132" MODIFIED="1608807909880" POSITION="left" TEXT="erlang actor&#x6a21;&#x5f0f;">
+<node CREATED="1608807964956" ID="ID_774249883" MODIFIED="1608807967688" TEXT="&#x5e76;&#x53d1;&#x591a;&#x6838;"/>
+<node CREATED="1608808001224" ID="ID_1603571614" MODIFIED="1608808030419" TEXT="&#x5f02;&#x6b65; mailbox &#x6c9f;&#x901a; &#x72ec;&#x7acb;"/>
+<node CREATED="1608808155620" ID="ID_139935506" MODIFIED="1608808162885" TEXT="&#x642d;&#x914d; supervisor"/>
+<node CREATED="1608808031150" ID="ID_1191775559" MODIFIED="1608808037093" TEXT="golang channel"/>
+</node>
+</node>
+</map>
