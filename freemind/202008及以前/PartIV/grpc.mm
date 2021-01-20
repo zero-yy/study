@@ -6,7 +6,7 @@
 <node CREATED="1598516101872" ID="ID_1503135965" MODIFIED="1598516109893" TEXT="plugins=grpc"/>
 </node>
 <node CREATED="1598515509213" ID="ID_177848838" MODIFIED="1598515509213" TEXT="Generate server and client code using the protocol buffer compiler."/>
-<node CREATED="1598515509214" MODIFIED="1598515509214" TEXT="Use the Go gRPC API to write a simple client and server for your service"/>
+<node CREATED="1598515509214" ID="ID_1054486041" MODIFIED="1598515509214" TEXT="Use the Go gRPC API to write a simple client and server for your service"/>
 </node>
 <node CREATED="1598516041271" ID="ID_1665128738" MODIFIED="1598516044351" POSITION="left" TEXT="&#x5206;&#x7c7b;">
 <node CREATED="1598516044659" ID="ID_1902465509" MODIFIED="1598516274799" TEXT="&#x5355;&#x4e2a;&#x6d88;&#x606f;">
@@ -79,6 +79,12 @@
 <node CREATED="1598520218489" ID="ID_1478619656" MODIFIED="1598520229636" TEXT="&#x6d88;&#x606f;&#x90fd;&#x662f;&#x57fa;&#x4e8e;pb&#x5305;&#x7684;"/>
 <node CREATED="1598520229904" ID="ID_630316095" MODIFIED="1598520240841" TEXT="&#x591a;&#x4e2a;&#x4e1a;&#x52a1;&#x670d;&#x52a1;&#xff0c;&#x590d;&#x7528;tcp&#x6570;&#x636e;&#x901a;&#x9053;"/>
 <node CREATED="1598520256888" ID="ID_847566762" MODIFIED="1598520269807" TEXT="&#x57fa;&#x4e8e;&#x4e00;&#x4e2a;tcp&#x5305;&#xff0c;c/s&#x90fd;&#x53ef;&#x4ee5;&#x5e76;&#x884c;&#x4e1a;&#x52a1;&#x903b;&#x8f91;"/>
+<node CREATED="1611049749765" ID="ID_626115431" MODIFIED="1611049757568" TEXT="http/2"/>
+</node>
+<node CREATED="1611049875863" ID="ID_176963068" MODIFIED="1611049880459" POSITION="right" TEXT="&#x8865;&#x5145;">
+<node CREATED="1611049880725" ID="ID_721938121" MODIFIED="1611049897346" TEXT="1 IDL&#x5b9a;&#x4e49;"/>
+<node CREATED="1611049897734" ID="ID_1520222673" MODIFIED="1611049928937" TEXT="2 server &#x57fa;&#x4e8e;&#x4e00;&#x4e2a;tcp&#x94fe;&#x63a5;&#xff0c;new server, register, create service func."/>
+<node CREATED="1611049929971" ID="ID_1385032797" MODIFIED="1611049940187" TEXT="3 client new tcp, dial, call stub func"/>
 </node>
 </node>
 </map>

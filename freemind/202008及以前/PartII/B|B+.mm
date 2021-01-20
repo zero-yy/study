@@ -13,6 +13,7 @@
 </node>
 <node CREATED="1598242433830" ID="ID_1713964453" MODIFIED="1598242589018" TEXT="&#x4e0e;B+&#x7684;&#x6838;&#x5fc3;&#x533a;&#x522b;">
 <node CREATED="1598242438275" ID="ID_1719957777" MODIFIED="1598242575275" TEXT="&#x975e;&#x53f6;&#x5b50;&#x8282;&#x70b9;&#x91cc;&#xff0c;&#x5305;&#x542b;&#x4e86;&#x5185;&#x5bb9;"/>
+<node CREATED="1611113228818" ID="ID_1804790105" MODIFIED="1611113246328" TEXT="&#x66f4;&#x9002;&#x7528;&#x4e8e;kv&#x83b7;&#x53d6;&#x6570;&#x636e;&#xff0c;&#xff0c;&#x4e0d;&#x5229;&#x4e8e; &#x533a;&#x6bb5;&#x6570;&#x636e;"/>
 </node>
 <node CREATED="1598242590514" ID="ID_1593401258" MODIFIED="1598242723751" TEXT="&#x4e3a;&#x5565;&#x4e0d;&#x662f;&#x4e8c;&#x53c9;&#x6811;">
 <node CREATED="1598242597369" ID="ID_1442957176" MODIFIED="1598242660989" TEXT="&#x901a;&#x8fc7;&#x589e;&#x52a0;&#x6bcf;&#x6b21;&#x8bfb;&#x53d6;&#x91cf;&#xff0c;&#x51cf;&#x5c11;io&#x6b21;&#x6570;"/>
