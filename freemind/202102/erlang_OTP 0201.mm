@@ -1,0 +1,18 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1612177054033" ID="ID_610566042" MODIFIED="1612177089732" TEXT="erlang_OTP 0201">
+<node CREATED="1612177058474" ID="ID_655025054" MODIFIED="1612177060027" POSITION="right" TEXT="erlang">
+<node CREATED="1612177060029" ID="ID_1476789962" MODIFIED="1612177063076" TEXT="over the process">
+<node CREATED="1612177063417" ID="ID_198592347" MODIFIED="1612177123977" TEXT="supervision tree">
+<node CREATED="1612177067049" ID="ID_293349515" MODIFIED="1612177073112" TEXT="golang suture/sutree"/>
+<node CREATED="1612177073466" ID="ID_346476927" MODIFIED="1612177077145" TEXT="protoActor"/>
+<node CREATED="1612177128340" ID="ID_257535706" MODIFIED="1612177139532" TEXT="supervisors &amp; workers"/>
+</node>
+<node CREATED="1612227674381" ID="ID_1433896761" MODIFIED="1612227681690" TEXT="lets crash&#xff01;">
+<node CREATED="1612227689199" ID="ID_1495606188" MODIFIED="1612227709741" TEXT="&#x5931;&#x8d25; &#x5931;&#x8d25;&#x6b21;&#x6570; decay &#x9608;&#x503c; backoff&#x56de;&#x9000; &#x62c9;&#x8d77;&#x7b49;.."/>
+</node>
+</node>
+<node CREATED="1612177094094" ID="ID_421518870" MODIFIED="1612177101432" TEXT="&#x4e00;&#x79cd;&#x8bbe;&#x8ba1;&#x601d;&#x8def;"/>
+</node>
+</node>
+</map>
