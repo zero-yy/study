@@ -1,0 +1,32 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1614139800223" ID="ID_105392764" MODIFIED="1614139817126" TEXT="2021&#x5e74;&#x5ea6;&#x9605;&#x8bfb;">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1614139866620" ID="ID_809946654" MODIFIED="1614139879884" POSITION="left" TEXT="&#x4e00;&#x5b63;&#x5ea6;2-4">
+<node CREATED="1614139735605" ID="ID_1675021375" MODIFIED="1614139747715" TEXT="&#x7f16;&#x7a0b;">
+<node CREATED="1614139679475" ID="ID_1602134228" MODIFIED="1614139920521" TEXT="advanced-go-programming-book">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1614139719933" ID="ID_1454620034" MODIFIED="1614139727316" TEXT="&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;"/>
+<node CREATED="1614139680720" ID="ID_145118993" MODIFIED="1614139920521" TEXT="The-Golang-Standard-Library-by-Example">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1614139895778" ID="ID_1906164246" MODIFIED="1614139920521" TEXT="&#x4e3a;&#x4ec0;&#x4e48;&#x7cfb;&#x5217;&#x535a;&#x5ba2;">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1614139737078" ID="ID_108201385" MODIFIED="1614139770426" TEXT="&#x6280;&#x672f;&#x62d3;&#x5c55;">
+<node CREATED="1614139700205" ID="ID_586308073" MODIFIED="1614139920520" TEXT="&#x4ece;&#x4e00;&#x5230;&#x65e0;&#x7a77;&#x5927;">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1613633096415" ID="ID_1781553599" MODIFIED="1614139920520" TEXT="&#x5947;&#x70b9;&#x4e34;&#x8fd1;">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1614139748567" ID="ID_1035618031" MODIFIED="1614139751390" TEXT="&#x5176;&#x4ed6;">
+<node CREATED="1614139727926" ID="ID_1609297222" MODIFIED="1614139783701" TEXT="&#x6625;&#x79cb;&#x53f2;"/>
+<node CREATED="1613633122532" ID="ID_951069234" MODIFIED="1613633127994" TEXT="&#x6d77;&#x661f;&#x6a21;&#x5f0f;"/>
+</node>
+</node>
+</node>
+</map>
