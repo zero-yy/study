@@ -1,0 +1,20 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1616725965012" ID="ID_74104976" MODIFIED="1616725971995" TEXT="0326">
+<node CREATED="1616732053760" ID="ID_1683266626" MODIFIED="1616732075651" POSITION="right" TEXT="go:linkname">
+<node CREATED="1616732207437" ID="ID_1360118785" MODIFIED="1616732222380" TEXT="&#x53ef;&#x4ee5;&#x53d8;&#x76f8;&#x7684;&#x8bbf;&#x95ee;&#x5c0f;&#x5199;&#x51fd;&#x6570;"/>
+<node CREATED="1616732223053" ID="ID_913159431" MODIFIED="1616732241835" TEXT="//go:linkname Newxxx a.xxx"/>
+<node CREATED="1616732242342" ID="ID_247696415" MODIFIED="1616732256160" TEXT="func Newxxx() *a"/>
+</node>
+<node CREATED="1616746691113" ID="ID_1253477021" MODIFIED="1616746699793" POSITION="left" TEXT="OLAP">
+<node CREATED="1616746699794" ID="ID_760705123" MODIFIED="1616746704909" TEXT="&#x5217;&#x5f0f;&#x5b58;&#x50a8;">
+<node CREATED="1616746708294" ID="ID_362076111" MODIFIED="1616746716651" TEXT="I/O &#x8fde;&#x7eed;">
+<node CREATED="1616746741367" ID="ID_355571240" MODIFIED="1616746742840" TEXT="&#x6570;&#x636e;&#x538b;&#x7f29;"/>
+<node CREATED="1616746743118" ID="ID_1526040917" MODIFIED="1616746749876" TEXT="&#x8bfb;&#x5199;"/>
+</node>
+<node CREATED="1616746717220" ID="ID_1082275504" MODIFIED="1616746793645" TEXT="&#x7279;&#x5b9a;&#x5b57;&#x6bb5;&#x7684;&#x8fde;&#x7eed;&#xff0c;&#x4fbf;&#x4e8e;&#x5206;&#x6790;&#x5927;&#x91cf;&#x6570;&#x636e;&#x7684;&#x540c;&#x4e00;&#x5217;"/>
+<node CREATED="1616746762426" ID="ID_864792765" MODIFIED="1616746786025" TEXT="&#x4e0d;&#x5229;&#x4e8e;&#x4e2a;&#x522b;&#x7528;&#x6237;&#x7684;&#x5168;&#x6570;&#x636e;&#x635e;&#x53d6;&#xff0c;&#x4f46;&#x4e2a;&#x522b;&#x73a9;&#x5bb6;&#x6570;&#x636e;&#x672c;&#x8eab;&#x4e0d;&#x5927;&#xff0c;&#x6240;&#x4ee5;&#x65e0;&#x6240;&#x8c13;"/>
+</node>
+</node>
+</node>
+</map>

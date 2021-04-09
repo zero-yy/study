@@ -30,7 +30,9 @@
 <node CREATED="1614049884601" ID="ID_141033833" MODIFIED="1614049909297" TEXT="&#x672c;&#x673a;&#x53ef;telnet&#xff0c;&#xff0c;&#x5373;&#x4f7f;&#x5c40;&#x57df;&#x7f51;ip&#x4e5f;&#x53ef;&#x4ee5;&#xff0c;&#x4f46;&#x5b9e;&#x9645;&#x4e0a;&#x672c;&#x673a;&#x5c40;&#x57df;&#x7f51;ip&#x4f1a;&#x8f6c;&#x6362;"/>
 </node>
 <node CREATED="1614049827585" ID="ID_1962470143" MODIFIED="1614049836020" TEXT="sudo lsof -i:16686">
-<node CREATED="1614049836483" ID="ID_1736917276" MODIFIED="1614049856256" TEXT="&#x7aef;&#x53e3;&#x5f00;&#x7740;&#xff0c;0:16686,&#x6309;&#x8bf4;&#x90fd;&#x53ef;&#x4ee5;&#x8bbf;&#x95ee;"/>
+<node CREATED="1614049836483" ID="ID_1736917276" MODIFIED="1614049856256" TEXT="&#x7aef;&#x53e3;&#x5f00;&#x7740;&#xff0c;0:16686,&#x6309;&#x8bf4;&#x90fd;&#x53ef;&#x4ee5;&#x8bbf;&#x95ee;">
+<node CREATED="1615604619912" ID="ID_1734796797" MODIFIED="1615604627667" TEXT="&#x6ce8;&#x610f;sudo&#xff01;&#xff01;&#xff01;"/>
+</node>
 </node>
 <node CREATED="1614049953347" ID="ID_1256655074" MODIFIED="1614049958829" TEXT="&#x90fd;&#x4e0d;&#x662f;&#x4ee5;&#x4e0a;&#x95ee;&#x9898;&#xff1f;">
 <node CREATED="1614049959065" ID="ID_1259353363" MODIFIED="1614050705064" TEXT="docker ip&#x8f6c;&#x53d1;&#x95ee;&#x9898;">
@@ -44,6 +46,7 @@
 <node CREATED="1614050049395" ID="ID_1098068799" MODIFIED="1614050057951" TEXT="sysctl -w net.ipv4.ip_forward=1"/>
 </node>
 </node>
+<node CREATED="1614313179411" ID="ID_1977448649" MODIFIED="1614313204284" TEXT="lsof&#x7aef;&#x53e3;&#x662f;&#x5426;&#x6253;&#x5f00;&#xff1f; -&gt; firewall &amp; iptables -&gt; ip forward -&gt; telnet &#x68c0;&#x6d4b;.."/>
 </node>
 </node>
 </map>

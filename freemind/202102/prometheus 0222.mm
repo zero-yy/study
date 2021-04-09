@@ -80,6 +80,7 @@
 </node>
 <node CREATED="1613976301328" ID="ID_1119202879" MODIFIED="1613976301750" TEXT="https://tomgregory.com/the-four-types-of-prometheus-metrics/"/>
 <node CREATED="1613976462980" ID="ID_998462510" MODIFIED="1613976463372" TEXT="https://github.com/prometheus/client_golang/blob/master/prometheus/examples_test.go"/>
+<node CREATED="1615780601810" ID="ID_1482025012" MODIFIED="1615780639435" TEXT="&#x7edf;&#x8ba1;&#xff1a; &#x54ea;&#x4e2a;&#x65f6;&#x95f4;&#x6bb5;[5m],&#x54ea;&#x4e2a;&#x7a7a;&#x95f4;&#xff08;source, label), &#x54ea;&#x4e2a;&#x7ef4;&#x5ea6;&#xff0c;&#xff0c;&#x54ea;&#x79cd;&#x65b9;&#x5f0f; &#x53bb;&#x7edf;&#x8ba1;"/>
 </node>
 </node>
 </map>

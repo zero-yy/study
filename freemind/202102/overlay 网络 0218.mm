@@ -9,12 +9,16 @@
 <node CREATED="1613616700260" ID="ID_313443036" MODIFIED="1613616701118" TEXT="&#x5b63;&#x5ea6;"/>
 <node CREATED="1613616701402" ID="ID_1737473334" MODIFIED="1613616713959" TEXT="&#x5c0f;&#x77f3;&#x5b50;&#x62c6;&#x5206;"/>
 </node>
+<node CREATED="1614321923695" ID="ID_1999887925" MODIFIED="1614321928335" TEXT="objective &amp; key result"/>
 </node>
 <node CREATED="1613616661065" ID="ID_379426822" MODIFIED="1613616735857" TEXT="Scrum/Trello">
 <node CREATED="1613616682202" ID="ID_313197846" MODIFIED="1613616686029" TEXT="&#x89c4;&#x5212;"/>
 </node>
 <node CREATED="1613616662807" ID="ID_432074980" MODIFIED="1613616681409" TEXT="&#x756a;&#x8304;&#x5de5;&#x4f5c;&#x6cd5;">
 <node CREATED="1613616669391" ID="ID_66871766" MODIFIED="1613616677134" TEXT="&#x5177;&#x4f53;&#x5b9e;&#x65bd;"/>
+</node>
+<node CREATED="1614321987536" ID="ID_1420342887" MODIFIED="1614321990074" TEXT="scrum">
+<node CREATED="1614321990074" ID="ID_1766377013" MODIFIED="1614321998641" TEXT="&#x6df7;&#x4e71; &#x626d;&#x6253; -&gt; &#x654f;&#x6377;"/>
 </node>
 </node>
 <node CREATED="1613618104071" ID="ID_1005622742" MODIFIED="1613618107928" TEXT="gym &#x5065;&#x8eab;&#x623f;"/>
@@ -39,6 +43,9 @@
 <node CREATED="1613617772691" ID="ID_85609499" MODIFIED="1613617773718" POSITION="left" TEXT="&#x7406;&#x89e3;">
 <node CREATED="1613617774344" ID="ID_469596611" MODIFIED="1613617785823" TEXT="&#x90e8;&#x5206;&#x7c7b;&#x4f3c;&#x4e8e;http/2"/>
 <node CREATED="1613617786148" ID="ID_154672274" MODIFIED="1613617863658" TEXT="&#x770b;&#x8d77;&#x6765;&#x5f88;&#x795e;&#x5947;&#xff0c;&#x662f;&#x56e0;&#x4e3a;&#x4ecb;&#x4e8e;&#x4f20;&#x8f93;&#x5c42;&#x548c;&#x5e94;&#x7528;&#x5c42;&#x4e4b;&#x95f4;&#xff0c;&#xff0c;&#x81ea;&#x5df1;&#x7ec4;&#x7684;frame&#x91cc;&#x5c01;&#x88c5;&#x4e86;&#x5f88;&#x591a;&#x7684;&#x7279;&#x5b9a;&#x8f6c;&#x6362;&#x6570;&#x636e;"/>
+<node CREATED="1615780912840" ID="ID_1283313954" MODIFIED="1615780960890" TEXT="&#x76f8;&#x4fe1;&#x57fa;&#x7840;&#x79d1;&#x5b66;&#xff0c;&#xff0c;&#x8fde;&#x5b87;&#x5b99;&#x600e;&#x4e48;&#x4ea7;&#x751f;&#x7684;&#x90fd;&#x6709;&#x5408;&#x7406;&#x7684;&#x89e3;&#x91ca;&#x4e86;&#xff0c;&#x8fd9;&#x70b9;&#x7b97;&#x4ec0;&#x4e48;&#xff1f; &#x4eba;&#x4e3a;&#x7684;&#xff0c;&#x5c31;&#x662f;&#x6709;&#x636e;&#x53ef;&#x5faa;&#x6709;&#x6761;&#x4e0d;&#x7d0a;~"/>
+<node CREATED="1615780966525" ID="ID_568197906" MODIFIED="1615780972548" TEXT="&#x903b;&#x8f91;&#x88ab;&#x9690;&#x85cf;&#x8d77;&#x6765;&#x4e86;"/>
 </node>
+<node CREATED="1614322049231" ID="ID_633959706" MODIFIED="1614322125990" POSITION="left" TEXT="docker &#x6216;kubenates &#x5728;&#x7279;&#x5b9a;overlay&#x7684;&#x8bbe;&#x7f6e;&#x4e0b;&#xff0c;&#x9700;&#x8981;&#x5f00;&#x542f;&#x7cfb;&#x7edf; ip forward"/>
 </node>
 </map>

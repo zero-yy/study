@@ -23,6 +23,7 @@
 <node CREATED="1614001589907" ID="ID_1022790261" MODIFIED="1614001593805" TEXT="&#x94fe;&#x8def;&#x591a;&#x73af;&#x8282;"/>
 <node CREATED="1614001594046" ID="ID_1832549630" MODIFIED="1614001594892" TEXT="&#x590d;&#x6742;"/>
 </node>
+<node CREATED="1614311991381" ID="ID_1380083960" MODIFIED="1614312064152" TEXT="&#x57fa;&#x7840;&#x6d41;&#x7a0b; &#x63a8;&#x8f6c;&#x62c9;&#x590d;&#x6742;-&gt; &#x6ee1;&#x8db3;&#x4f53;&#x9a8c; -&gt; gop&#x7f13;&#x5b58; -&gt; RTMP/HLS&#x5b9e;&#x73b0;"/>
 </node>
 </node>
 </map>
