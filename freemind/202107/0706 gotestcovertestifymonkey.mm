@@ -20,6 +20,9 @@
 <node CREATED="1625561546708" ID="ID_1184274103" MODIFIED="1625561565108" TEXT="&#x4f9b; &#x53e6;&#x5916;&#x7684;&#x4f9d;&#x8d56;&#x670d;&#x52a1;&#x8c03;&#x7528;&#xff0c;&#xff0c;&#x6d4b;&#x8bd5;&#x4ea4;&#x4e92;&#xff01;&#xff01;&#xff01;"/>
 </node>
 <node CREATED="1625561598158" ID="ID_1151263644" MODIFIED="1625561606650" TEXT="&#x8fd0;&#x4f5c;&#x826f;&#x597d;&#x7684;&#x57fa;&#x7840;&#xff0c;&#xff0c;&#xff0c;&#x662f;&#x57fa;&#x4e8e;&#x63a5;&#x53e3;&#x7f16;&#x7a0b;"/>
+<node CREATED="1627007549956" ID="ID_1034575061" MODIFIED="1627007557561" TEXT="expect ... times ... ">
+<node CREATED="1627007557562" ID="ID_750233240" MODIFIED="1627007585359" TEXT="&#x6307;&#x5b9a;&#x9884;&#x671f;&#x7ed3;&#x679c;&#xff0c;&#x66f4;&#x7ec6;&#x8282;&#x7684;.."/>
+</node>
 </node>
 <node CREATED="1625540532389" ID="ID_1194641469" MODIFIED="1625540533490" POSITION="right" TEXT="monkey">
 <node CREATED="1625540703212" ID="ID_929113910" MODIFIED="1625540711493" TEXT="&#x4f18;&#x96c5;&#x7684;&#x65b9;&#x5f0f; mock/stub"/>

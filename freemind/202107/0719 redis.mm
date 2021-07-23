@@ -108,6 +108,9 @@
 </node>
 <node CREATED="1626688307853" ID="ID_1072799796" MODIFIED="1626688311587" POSITION="left" TEXT="redisbloom">
 <node CREATED="1626688311588" ID="ID_1569953412" MODIFIED="1626688326426" TEXT="redis&#x7684;&#x6269;&#x5c55;&#xff0c;&#xff0c;&#x901a;&#x8fc7;&#x52a0;&#x8f7d;&#x63d2;&#x4ef6;&#xff0c;&#x652f;&#x6301;&#x5404;&#x79cd;filter&#x547d;&#x4ee4;"/>
+<node CREATED="1627006434448" ID="ID_1470334981" MODIFIED="1627006440957" TEXT="redis 6&#x4ee5;&#x540e;&#x652f;&#x6301;module">
+<node CREATED="1627006443098" ID="ID_1307648835" MODIFIED="1627006446987" TEXT="&#x901a;&#x8fc7;module&#x52a0;&#x8f7d;"/>
+</node>
 </node>
 </node>
 </map>
