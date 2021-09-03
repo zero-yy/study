@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1626146170673" ID="ID_216642810" MODIFIED="1626159890024" TEXT="go/micro">
+<node CREATED="1626146170673" ID="ID_216642810" MODIFIED="1628839972096" TEXT="go/micro">
 <node CREATED="1626147660977" ID="ID_642349573" MODIFIED="1626147670240" POSITION="right" TEXT="why&#xff1f;&#x89e3;&#x51b3;&#x4ec0;&#x4e48;&#x95ee;&#x9898;">
 <node CREATED="1626159897430" ID="ID_1000011775" MODIFIED="1626160299532" TEXT="&#x5fae;&#x670d;&#x52a1;&#x601d;&#x60f3;"/>
 <node CREATED="1626160137378" ID="ID_1957652393" MODIFIED="1626160145692" TEXT="&#x6846;&#x67b6;&#x5316;&#x601d;&#x7ef4;"/>

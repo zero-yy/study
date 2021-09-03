@@ -16,5 +16,6 @@
 <node CREATED="1626699615974" ID="ID_161915018" MODIFIED="1626699675558" TEXT="4 code &lt;-&gt; token&#x65b9;&#x5f0f;&#xff0c;&#xff0c;&#x7ed9;&#x7528;&#x6237;&#x4e00;&#x4e2a;code&#xff0c;&#xff0c;&#x7136;&#x540e;&#x6700;&#x540e;&#x4e00;&#x4e2a;code &#x53ef;&#x4ee5;&#x5728;&#x7279;&#x5b9a;&#x65f6;&#x95f4;&#x6bb5;&#x6362;token"/>
 </node>
 </node>
+<node CREATED="1628836258430" ID="ID_219414816" MODIFIED="1628836263307" POSITION="left" TEXT="single-sign-on"/>
 </node>
 </map>
