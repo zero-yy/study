@@ -56,6 +56,11 @@
 </node>
 </node>
 </node>
+<node CREATED="1636102452533" ID="ID_1206523209" MODIFIED="1636102460231" POSITION="right" TEXT="https vs http 1 vs http 2">
+<node CREATED="1636102460799" ID="ID_298899918" MODIFIED="1636102469650" TEXT="s&#x5c31;&#x662f;&#x52a0;&#x5bc6;&#xff0c;&#x548c;1&#xff0c;2&#x65e0;&#x5173;"/>
+<node CREATED="1636102470234" ID="ID_1917841605" MODIFIED="1636102478336" TEXT="http2&#x7684;&#x6d4f;&#x89c8;&#x5668;&#x652f;&#x6301;&#xff0c;&#x5fc5;&#x987b;&#x662f;s&#x7684;"/>
+<node CREATED="1636102478810" ID="ID_1171745162" MODIFIED="1636102487969" TEXT="http1 &#x53ef;&#x80fd;&#x662f;s&#x6216;&#x8005;&#x4e0d;&#x662f;"/>
+</node>
 <node CREATED="1631935293774" ID="ID_930879633" MODIFIED="1631935301392" POSITION="right" TEXT="xx">
 <node CREATED="1631935628495" ID="ID_1160156590" MODIFIED="1631935630117" TEXT="key">
 <node CREATED="1631936606561" ID="ID_1485422495" MODIFIED="1631936609249" TEXT=" files are generally the private key, used by the server to encrypt and package data for verification by clients."/>
